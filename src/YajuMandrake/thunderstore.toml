@@ -21,12 +21,12 @@ readme = "../../README.md"
 outdir = "../../artifacts/thunderstore/"
 
 [[build.copy]]
-source = "../../artifacts/bin/YajuMandrake/release/com.github.wellcoming.YajuMandrake.dll"
-target = "plugins/"
+source = "../../artifacts/bin/YajuMandrake/release/YajuMandrake"
+target = "plugins/YajuMandrake"
 
 [[build.copy]]
-source = "../../artifacts/bin/YajuMandrake/release/YajuMandrake"
-target = "plugins/"
+source = "../../artifacts/bin/YajuMandrake/release/com.github.wellcoming.YajuMandrake.dll"
+target = "plugins/YajuMandrake/"
 
 [[build.copy]]
 source = "../../LICENSE"
