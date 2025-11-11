@@ -1,31 +1,15 @@
 # YajuMandrake
 
-Describe your project here!
+Replaces Mandrake screams with Yaju Senpai's iconic sound effects!
 
-## Template Instructions
+"Huh, Huh, Huh, ahhhhhhhhhhhhhh───!!!"
 
-You can remove this section after you've set up your project.
+**Warning:** This mod significantly extends the duration of the Mandrake's scream, making them ten (or even nine) times more likely to induce drowsiness.
 
-Next steps:
+---
 
-- Create a copy of the `Config.Build.user.props.template` file and name it `Config.Build.user.props`
-  - This will automate copying your plugin assembly to `BepInEx/plugins/`
-  - Configure the paths to point to your game path and your `BepInEx/plugins/`
-  - Game assembly references should work if the path to the game is valid
-- Search `TODO` in the whole project to see what you should configure or modify
+将曼德拉草的尖叫声替换为野兽先辈原声大碟！
 
-### Thunderstore Packaging
+「哼，哼，哼，啊啊啊啊啊啊啊啊啊啊啊啊───!!!」
 
-This template comes with Thunderstore packaging built-in, using [TCLI](<https://github.com/thunderstore-io/thunderstore-cli>).
-
-You can build Thunderstore packages by running:
-
-```sh
-dotnet build -c Release -target:PackTS -v d
-```
-
-> [!NOTE]  
-> You can learn about different build options with `dotnet build --help`.  
-> `-c` is short for `--configuration` and `-v d` is `--verbosity detailed`.
-
-The built package will be found at `artifacts/thunderstore/`.
+**注意：** 此模组会显著延长曼德拉草的喊叫时长，使得曼德拉草十分甚至九分容易令人昏睡（悲
