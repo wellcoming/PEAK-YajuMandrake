@@ -25,7 +25,7 @@ internal static class MandrakeAwakePatch
     [HarmonyPostfix]
     private static void Postfix(Mandrake __instance)
     {
-        __instance.screamWaitTime = 14.9f;
-        Plugin.Log.LogInfo("Mandrake.screamWaitTime modified to 14.9f");
+        __instance.screamWaitTime = 18.65f;
+        Plugin.Log.LogInfo("Mandrake.screamWaitTime modified to 18.65f");
     }
 }
