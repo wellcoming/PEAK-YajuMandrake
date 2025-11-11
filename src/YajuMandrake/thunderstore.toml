@@ -8,7 +8,7 @@ repository = "https://thunderstore.io"
 namespace = "ComingStudio"
 name = "Yaju_Mandrake"
 description = "Replaces Mandrake screaming into Yaju Senpai."
-websiteUrl = ""
+websiteUrl = "https://github.com/wellcoming/PEAK-YajuMandrake"
 containsNsfwContent = false
 
 [package.dependencies]
