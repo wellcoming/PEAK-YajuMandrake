@@ -1,0 +1,12 @@
+{
+	"replacements": [
+		{
+			"matches": "*:Au_Mandrake_Scream",
+			"sounds": [
+				{
+					"sound": "Mandrake/Yaju_Senpai_Scream.ogg"
+				}
+			]
+		}
+	]
+}
